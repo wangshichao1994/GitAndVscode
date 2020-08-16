@@ -4,6 +4,7 @@ int main()
 {
 
     printf("hello world in newdev");
+    printf("we still need sometime");
 
     printf("%d",test_in_main);
     int i=0;
