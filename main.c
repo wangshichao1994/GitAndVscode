@@ -5,7 +5,7 @@ int main()
     printf("hello world");
     printf("%d",test_in_main);
     int i=0;
-    for(i=0;i<99;i++)
+    for(i=0;i<98;i++)
     {
         printf("%d\n",i);
     }
