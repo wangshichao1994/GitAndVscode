@@ -2,7 +2,7 @@
 #include"main.h"
 int main()
 {
-    printf("hello world");
+    printf("hello world in dev");
     printf("%d",test_in_main);
     int i=0;
     for(i=0;i<98;i++)
