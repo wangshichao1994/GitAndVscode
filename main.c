@@ -3,7 +3,7 @@
 int main()
 {
 
-    printf("hello world in master and feature1");
+    printf("hello world in newdev");
 
     printf("%d",test_in_main);
     int i=0;
