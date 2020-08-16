@@ -4,7 +4,11 @@ int main()
 {
 
     printf("hello world in newdev");
+<<<<<<< HEAD
     printf("we still need sometime");
+=======
+    printf("fix bug");
+>>>>>>> 4694354... fix bug
 
     printf("%d",test_in_main);
     int i=0;
