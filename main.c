@@ -6,6 +6,7 @@ int main()
     printf("hello world in newdev");
     printf("we still need sometime\n");
     printf("fix bug");
+    printf("test pull in clone");
     printf("%d",test_in_main);
     int i=0;
     for(i=0;i<98;i++)
